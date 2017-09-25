@@ -1,4 +1,5 @@
-Build and Test Examples
+Build and Test Examples 
+[![Build Status](https://travis-ci.org/EnfantT/build_and_test_examples.svg?branch=master)](https://travis-ci.org/EnfantT/build_and_test_examples)
 =======================
 
 Introduction
